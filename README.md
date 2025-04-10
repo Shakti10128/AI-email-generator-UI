@@ -2,7 +2,7 @@
 https://github.com/Shakti10128/email_writer_sb/tree/master
 
 ## Checkout The Chrome Extension Branch
-https://github.com/Shakti10128/email_writer_sb/tree/master
+https://github.com/Shakti10128/Ai-email-generator-extension
 
 
 # React + Vite
